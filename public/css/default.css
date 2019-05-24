@@ -1,0 +1,46 @@
+body {
+    background: silver;
+}
+
+#header {
+    padding: 20px;
+    background: silver;
+    margin-bottom: 20px;
+}
+
+#content {
+    background: #fff;
+    padding: 20px;
+}
+
+#footer {
+    background: silver;
+    padding: 20px;
+    margin-top: 20px;
+}
+#add-bat{
+
+    float: right;
+}
+#filter-table{
+    width: 100%;
+}
+#filter-table th{
+    background-color: #dadada;
+}
+#filter-table td, #filter-table th{
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.edit{
+    background-color: transparent;
+    border: none;
+}
+
+#container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
